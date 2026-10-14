@@ -9,14 +9,9 @@
    git clone [https://github.com/nurzhan1166-oss/App_storm.git](https://github.com/nurzhan1166-oss/App_storm.git)
    cd App_storm
 
-
-   Установить зависимости:
-
-Bash
 npm install
 Запустить проект:
 
-Bash
 npx expo start
 Отсканируйте QR-код в приложении Expo Go на телефоне.
 
@@ -24,6 +19,8 @@ npx expo start
 React Native / Expo
 
 TypeScript / JavaScript
+
+Android Studio / Emulator
 
 👤 Автор
 nurzhan1166-oss
